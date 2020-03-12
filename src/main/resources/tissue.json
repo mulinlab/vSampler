@@ -1,0 +1,61 @@
+[
+  {"name": "Adipose_Subcutaneous", "path":  "Adipose_Subcutaneous.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Spinal_cord_cervical", "path":  "Brain_Spinal_cord_cervical_c-1.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Nerve_Tibial", "path":  "Nerve_Tibial.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Adipose_Visceral_Omentum", "path":  "Adipose_Visceral_Omentum.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Substantia_nigra", "path":  "Brain_Substantia_nigra.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Ovary", "path":  "Ovary.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Adrenal_Gland", "path":  "Adrenal_Gland.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Breast_Mammary_Tissue", "path":  "Breast_Mammary_Tissue.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Pancreas", "path":  "Pancreas.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Artery_Aorta", "path":  "Artery_Aorta.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Cells_Cultured_fibroblasts", "path":  "Cells_Cultured_fibroblasts.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Pituitary", "path":  "Pituitary.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Artery_Coronary", "path":  "Artery_Coronary.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Cells_EBV-transformed_lymphocytes", "path":  "Cells_EBV-transformed_lymphocytes.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Prostate", "path":  "Prostate.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Artery_Tibial", "path":  "Artery_Tibial.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Colon_Sigmoid", "path":  "Colon_Sigmoid.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Skin_Not_Sun_Exposed_Suprapubic", "path":  "Skin_Not_Sun_Exposed_Suprapubic.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Amygdala", "path":  "Brain_Amygdala.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Skin_Sun_Exposed_Lower_leg", "path":  "Skin_Sun_Exposed_Lower_leg.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Anterior_cingulate_cortex_BA24", "path":  "Brain_Anterior_cingulate_cortex_BA24.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Esophagus_Gastroesophageal_Junction", "path":  "Esophagus_Gastroesophageal_Junction.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Caudate_basal_ganglia", "path":  "Brain_Caudate_basal_ganglia.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Esophagus_Mucosa", "path":  "Esophagus_Mucosa.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Spleen", "path":  "Spleen.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Cerebellar_Hemisphere", "path":  "Brain_Cerebellar_Hemisphere.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Esophagus_Muscularis", "path":  "Esophagus_Muscularis.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Stomach", "path":  "Stomach.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Cerebellum", "path":  "Brain_Cerebellum.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Heart_Atrial_Appendage", "path":  "Heart_Atrial_Appendage.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Testis", "path":  "Testis.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Cortex", "path":  "Brain_Cortex.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Heart_Left_Ventricle", "path":  "Heart_Left_Ventricle.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Thyroid", "path":  "Thyroid.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Kidney_Cortex", "path":  "Kidney_Cortex.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Uterus", "path":  "Uterus.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Hippocampus", "path":  "Brain_Hippocampus.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Liver", "path":  "Liver.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Vagina", "path":  "Vagina.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Hypothalamus", "path":  "Brain_Hypothalamus.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Lung", "path":  "Lung.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Whole_Blood", "path":  "Whole_Blood.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Nucleus_accumbens_basal_ganglia", "path":  "Brain_Nucleus_accumbens_basal_ganglia.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Minor_Salivary_Gland", "path":  "Minor_Salivary_Gland.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Brain_Putamen_basal_ganglia", "path":  "Brain_Putamen_basal_ganglia.v8.signif_variant_gene_pairs.txt.gz"},
+  {"name": "Muscle_Skeletal", "path":  "Muscle_Skeletal.v8.signif_variant_gene_pairs.txt.gz"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+

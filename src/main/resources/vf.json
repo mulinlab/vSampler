@@ -1,0 +1,500 @@
+{
+  "TRANSCRIPT_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001576",
+    "ontologyTerm": "transcript_variant",
+    "color": "dimgray",
+    "category": "1"
+  },
+  "EXON_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001791",
+    "ontologyTerm": "exon_variant",
+    "color": "#7f9eb2",
+    "category": "1"
+  },
+  "GENE_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001564",
+    "ontologyTerm": "gene_variant",
+    "color": "#77919d",
+    "category": "1"
+  },
+  "NON_CODING_TRANSCRIPT_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001619",
+    "ontologyTerm": "non_coding_transcript_variant",
+    "color": "#8b8687",
+    "category": "2"
+  },
+  "INTRON_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001627",
+    "ontologyTerm": "intron_variant",
+    "color": "grey",
+    "category": "1"
+  },
+  "CODING_SEQUENCE_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001580",
+    "ontologyTerm": "coding_sequence_variant",
+    "color": "darkgray",
+    "category": "1"
+  },
+  "MOBILE_ELEMENT_DELETION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0002066",
+    "ontologyTerm": "mobile_element_deletion",
+    "color": "darkgrey",
+    "category": "3"
+  },
+  "SEQUENCE_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001060",
+    "ontologyTerm": "sequence_variant",
+    "color": "silver",
+    "category": "3"
+  },
+  "REGULATORY_REGION_ABLATION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001894",
+    "ontologyTerm": "regulatory_region_ablation",
+    "color": "grey",
+    "category": "2"
+  },
+  "INTERGENIC_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001628",
+    "ontologyTerm": "intergenic_variant",
+    "color": "grey",
+    "category": "2"
+  },
+  "REGULATORY_REGION_AMPLIFICATION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001891",
+    "ontologyTerm": "regulatory_region_amplification",
+    "color": "Aquamarine",
+    "category": "2"
+  },
+  "MIRNA": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0000276",
+    "ontologyTerm": "miRNA",
+    "color": "cadetblue",
+    "category": "2"
+  },
+  "CONSERVED_INTRON_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0002018",
+    "ontologyTerm": "conserved_intron_variant",
+    "color": "powderblue",
+    "category": "1"
+  },
+  "TFBS_AMPLIFICATION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001892",
+    "ontologyTerm": "tfbs_amplification",
+    "color": "lightblue",
+    "category": "2"
+  },
+  "CONSERVED_INTERGENIC_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0002017",
+    "ontologyTerm": "conserved_intergenic_variant",
+    "color": "deepskyblue",
+    "category": "2"
+  },
+  "SPLICING_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001568",
+    "ontologyTerm": "splicing_variant",
+    "color": "skyblue",
+    "category": "1"
+  },
+  "TFBS_ABLATION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001895",
+    "ontologyTerm": "tfbs_ablation",
+    "color": "lightskyblue",
+    "category": "2"
+  },
+  "DIRECT_TANDEM_DUPLICATION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:1000039",
+    "ontologyTerm": "direct_tandem_duplication",
+    "color": "steelblue",
+    "category": "3"
+  },
+  "CODING_TRANSCRIPT_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001968",
+    "ontologyTerm": "coding_transcript_variant",
+    "color": "aliceblue",
+    "category": "1"
+  },
+  "STRUCTURAL_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001537",
+    "ontologyTerm": "structural_variant",
+    "color": "DodgerBlue",
+    "category": "3"
+  },
+  "TF_BINDING_SITE_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001782",
+    "ontologyTerm": "tf_binding_site_variant",
+    "color": "lightslategray",
+    "category": "2"
+  },
+  "CUSTOM": {
+    "impact": "MODIFIER",
+    "ontologyID": "<custom>",
+    "ontologyTerm": "<custom>",
+    "color": "lightslategrey",
+    "category": "3"
+  },
+  "MOBILE_ELEMENT_INSERTION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001837",
+    "ontologyTerm": "mobile_element_insertion",
+    "color": "slategray",
+    "category": "3"
+  },
+  "INTERGENIC_REGION": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0000605",
+    "ontologyTerm": "intergenic_region",
+    "color": "slategrey",
+    "category": "2"
+  },
+  "DOWNSTREAM_GENE_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001632",
+    "ontologyTerm": "downstream_gene_variant",
+    "color": "LightSeaGreen",
+    "category": "2"
+  },
+  "UPSTREAM_GENE_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001631",
+    "ontologyTerm": "upstream_gene_variant",
+    "color": "cornflowerblue",
+    "category": "2"
+  },
+  "CHROMOSOME": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0000340",
+    "ontologyTerm": "chromosome",
+    "color": "royalblue",
+    "category": "3"
+  },
+  "REGULATORY_REGION_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0001566",
+    "ontologyTerm": "regulatory_region_variant",
+    "color": "#4F86C6",
+    "category": "2"
+  },
+  "INTRAGENIC_VARIANT": {
+    "impact": "MODIFIER",
+    "ontologyID": "SO:0002011",
+    "ontologyTerm": "intragenic_variant",
+    "color": "lavender",
+    "category": "1"
+  },
+  "FIVE_PRIME_UTR_PREMATURE_START_CODON_GAIN_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001983",
+    "ontologyTerm": "5_prime_UTR_premature_start_codon_gain_variant",
+    "color": "olive",
+    "category": "1"
+  },
+  "THREE_PRIME_UTR_EXON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0002089",
+    "ontologyTerm": "3_prime_UTR_exon_variant",
+    "color": "Thistle",
+    "category": "1"
+  },
+  "_SMALLEST_LOW_IMPACT": {
+    "impact": "LOW",
+    "color": "olivedrab",
+    "category": "3"
+  },
+  "THREE_PRIME_UTR_INTRON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0002090",
+    "ontologyTerm": "3_prime_UTR_intron_variant",
+    "color": "DarkTurquoise",
+    "category": "1"
+  },
+  "FIVE_PRIME_UTR_INTRON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0002091",
+    "ontologyTerm": "5_prime_UTR_intron_variant",
+    "color": "darkolivegreen",
+    "category": "1"
+  },
+  "STOP_RETAINED_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001567",
+    "ontologyTerm": "stop_retained_variant",
+    "color": "#218380",
+    "category": "1"
+  },
+  "SYNONYMOUS_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001819",
+    "ontologyTerm": "synonymous_variant",
+    "color": "DodgerBlue",
+    "category": "1"
+  },
+  "NON_CODING_TRANSCRIPT_INTRON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001970",
+    "ontologyTerm": "non_coding_transcript_intron_variant",
+    "color": "#44633F",
+    "category": "2"
+  },
+  "INITIATOR_CODON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001582",
+    "ontologyTerm": "initiator_codon_variant",
+    "color": "#379392",
+    "category": "1"
+  },
+  "SPLICE_REGION_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001630",
+    "ontologyTerm": "splice_region_variant",
+    "color": "darkseagreen",
+    "category": "1"
+  },
+  "CODING_TRANSCRIPT_INTRON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001969",
+    "ontologyTerm": "coding_transcript_intron_variant",
+    "color": "#548687",
+    "category": "1"
+  },
+  "NON_CODING_TRANSCRIPT_EXON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0001792",
+    "ontologyTerm": "non_coding_transcript_exon_variant",
+    "color": "SlateBlue",
+    "category": "2"
+  },
+  "FIVE_PRIME_UTR_EXON_VARIANT": {
+    "impact": "LOW",
+    "ontologyID": "SO:0002092",
+    "ontologyTerm": "5_prime_UTR_exon_variant",
+    "color": "forestgreen",
+    "category": "1"
+  },
+  "DISRUPTIVE_INFRAME_DELETION": {
+    "impact": "MODERATE",
+    "ontologyID": "SO:0001826",
+    "ontologyTerm": "disruptive_inframe_deletion",
+    "color": "#e77e4d",
+    "category": "1"
+  },
+  "DISRUPTIVE_INFRAME_INSERTION": {
+    "impact": "MODERATE",
+    "ontologyID": "SO:0001824",
+    "ontologyTerm": "disruptive_inframe_insertion",
+    "color": "#f349eb",
+    "category": "1"
+  },
+  "_SMALLEST_MODERATE_IMPACT": {
+    "impact": "MODERATE",
+    "color": "#e3632d",
+    "category": "3"
+  },
+  "INFRAME_DELETION": {
+    "impact": "MODERATE",
+    "ontologyID": "SO:0001822",
+    "ontologyTerm": "inframe_deletion",
+    "color": "#5c196b",
+    "category": "1"
+  },
+  "MISSENSE_VARIANT": {
+    "impact": "MODERATE",
+    "ontologyID": "SO:0001583",
+    "ontologyTerm": "missense_variant",
+    "color": "#fcbe32",
+    "category": "1"
+  },
+  "FIVE_PRIME_UTR_TRUNCATION": {
+    "impact": "MODERATE",
+    "ontologyID": "SO:0002013",
+    "ontologyTerm": "5_prime_UTR_truncation",
+    "color": "#bf209f",
+    "category": "1"
+  },
+  "INFRAME_INSERTION": {
+    "impact": "MODERATE",
+    "ontologyID": "SO:0001821",
+    "ontologyTerm": "inframe_insertion",
+    "color": "#7200da",
+    "category": "1"
+  },
+  "THREE_PRIME_UTR_TRUNCATION": {
+    "impact": "MODERATE",
+    "ontologyID": "SO:0002015",
+    "ontologyTerm": "3_prime_UTR_truncation",
+    "color": "BurlyWood",
+    "category": "1"
+  },
+  "FRAMESHIFT_ELONGATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001909",
+    "ontologyTerm": "frameshift_elongation",
+    "color": "rosybrown",
+    "category": "1"
+  },
+  "EXON_LOSS_VARIANT": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001572",
+    "ontologyTerm": "exon_loss_variant",
+    "color": "lightcoral",
+    "category": "1"
+  },
+  "SPLICE_DONOR_VARIANT": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001575",
+    "ontologyTerm": "splice_donor_variant",
+    "color": "indianred",
+    "category": "1"
+  },
+  "TRANSCRIPT_AMPLIFICATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001889",
+    "ontologyTerm": "transcript_amplification",
+    "color": "brown",
+    "category": "1"
+  },
+  "FRAMESHIFT_VARIANT": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001589",
+    "ontologyTerm": "frameshift_variant",
+    "color": "firebrick",
+    "category": "1"
+  },
+  "INSERTION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0000667",
+    "ontologyTerm": "insertion",
+    "color": "maroon",
+    "category": "3"
+  },
+  "INVERSION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:1000036",
+    "ontologyTerm": "inversion",
+    "color": "darkred",
+    "category": "3"
+  },
+  "STOP_GAINED": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001587",
+    "ontologyTerm": "stop_gained",
+    "color": "red",
+    "category": "1"
+  },
+  "SPLICE_ACCEPTOR_VARIANT": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001574",
+    "ontologyTerm": "splice_acceptor_variant",
+    "color": "crimson",
+    "category": "1"
+  },
+  "TRANSCRIPT_ABLATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001893",
+    "ontologyTerm": "transcript_ablation",
+    "color": "salmon",
+    "category": "1"
+  },
+  "STOP_LOST": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001578",
+    "ontologyTerm": "stop_lost",
+    "color": "tomato",
+    "category": "1"
+  },
+  "RARE_AMINO_ACID_VARIANT": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0002008",
+    "ontologyTerm": "rare_amino_acid_variant",
+    "color": "darksalmon",
+    "category": "1"
+  },
+  "TRANSLOCATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0000199",
+    "ontologyTerm": "translocation",
+    "color": "coral",
+    "category": "3"
+  },
+  "FRAMESHIFT_TRUNCATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001910",
+    "ontologyTerm": "frameshift_truncation",
+    "color": "orangered",
+    "category": "1"
+  },
+  "COPY_NUMBER_CHANGE": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001563",
+    "ontologyTerm": "copy_number_change",
+    "color": "lightsalmon",
+    "category": "3"
+  },
+  "MNV": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0002007",
+    "ontologyTerm": "mnv",
+    "color": "sienna",
+    "category": "3"
+  },
+  "COMPLEX_SUBSTITUTION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:1000005",
+    "ontologyTerm": "complex_substitution",
+    "color": "mediumvioletred",
+    "category": "3"
+  },
+  "FEATURE_TRUNCATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001906",
+    "ontologyTerm": "feature_truncation",
+    "color": "chocolate",
+    "category": "3"
+  },
+  "CHROMOSOME_NUMBER_VARIATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:1000182",
+    "ontologyTerm": "chromosome_number_variation",
+    "color": "saddlebrown",
+    "category": "3"
+  },
+  "START_LOST": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0002012",
+    "ontologyTerm": "start_lost",
+    "color": "sandybrown",
+    "category": "1"
+  },
+  "_SMALLEST_HIGH_IMPACT": {
+    "impact": "HIGH",
+    "color": "darkmagenta",
+    "category": "3"
+  },
+  "INTERNAL_FEATURE_ELONGATION": {
+    "impact": "HIGH",
+    "ontologyID": "SO:0001908",
+    "ontologyTerm": "internal_feature_elongation",
+    "color": "peru",
+    "category": "3"
+  }
+}
