@@ -42,11 +42,11 @@ public class Compare {
         }
 
         if(queryParam.geneDisIndex != GP.NO_GENE_DIS) {
-            minGene = queryParam.getGeneRangeMin(q.geneLD);
-            maxGene = queryParam.getGeneRangeMax(q.geneLD);
-        } else if(queryParam.geneLDIndex != GP.NO_GENE_LD) {
             minGene = queryParam.getGeneRangeMin(q.geneDis);
             maxGene = queryParam.getGeneRangeMax(q.geneDis);
+        } else if(queryParam.geneLDIndex != GP.NO_GENE_LD) {
+            minGene = queryParam.getGeneRangeMin(q.geneLD);
+            maxGene = queryParam.getGeneRangeMax(q.geneLD);
         }
 
         if(queryParam.ldIndex != GP.NO_LD_BUDDIES) {
