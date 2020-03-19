@@ -3,7 +3,7 @@
    
    - We welcome any discussion, suggestion and potential contribution of new functional prediction scores through github or contact Dr. Mulin Jun Li (mulinli{at}connect.hku.hk). 
 
-## vSampler
+## Quick Start
 ### System Requirements
    Java Runtime Environment (JRE) version 8.0 or above is required for vSampler. It can be downloaded from the Java web site. Installing the JRE is very easy in Windows OS and Mac OS X. In Linux, you have more work to do. Details of the installation can be found see the http://www.java.com/en/download/help/linux_install.xml.
    
