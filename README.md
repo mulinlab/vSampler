@@ -24,7 +24,7 @@ java -jar -Xms1g -Xmx4g VariantSampler-x.y.z.jar
 You should see a complete list of all the tools in the vSampler toolkit. 
 
 ### Sampler Examples
-* Local vSampler requires query file and indexed genotype reference panels as inputs.
+* Local vSampler requires `query file` and `indexed genotype reference` panels as inputs.
 * Local vSampler supports five types of query file, including `VCF`, `VCF-like`, `Coord-Only`, `Coord-Allele`, `TAB`. 
 
 ```shell
