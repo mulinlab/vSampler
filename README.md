@@ -9,9 +9,9 @@
    
 ### Download   
 This steps guides you from downloading the vSampler program.
-1 The latest version of vSampler can be downloaded from https://github.com/mulinlab/vSampler/releases. 
-2 Extract the ZIP archive, you should find file called VariantSampler-x.y.z.jar which can be used for run vSampler.
-3 You should also download indexed genotype reference panels from https://drive.google.com/drive/folders/1XEnUARZVTRzMj0VIIBi2bd-xLWuG2Shq?usp=sharing
+1. The latest version of vSampler can be downloaded from https://github.com/mulinlab/vSampler/releases. 
+2. Extract the ZIP archive, you should find file called VariantSampler-x.y.z.jar which can be used for run vSampler.
+3. You should also download indexed genotype reference panels from https://drive.google.com/drive/folders/1XEnUARZVTRzMj0VIIBi2bd-xLWuG2Shq?usp=sharing
 
 ### Test vSampler
 To test that you can run vSampler tools, run the following command in your terminal application, providing either the full path to the VariantSampler-x.y.z.jar file:
