@@ -34,5 +34,11 @@ java -jar -Xmx4g -Xms1g VariantSampler-x.y.z.jar Sampler -Q:coordOnly data/examp
 java -jar -Xmx4g -Xms1g VariantSampler-x.y.z.jar Sampler -Q:coordAllele data/example.coordAllele.tsv -D data/EUR.gz
 java -jar -Xmx4g -Xms1g VariantSampler-x.y.z.jar Sampler -Q:tab,c=2,b=3,e=4,0=true data/example.tab.tsv -D data/EUR.gz
 ```
+[data/example.vcf](https://github.com/mulinlab/vSampler/blob/master/src/test/resources/data/example.vcf)
+[data/example.vcflike.tsv](https://github.com/mulinlab/vSampler/blob/master/src/test/resources/data/example.vcflike.tsv)
+[data/example.coordOnly.tsv](https://github.com/mulinlab/vSampler/blob/master/src/test/resources/data/example.coordOnly.tsv)
+[data/example.coordAllele.tsv](https://github.com/mulinlab/vSampler/blob/master/src/test/resources/data/example.coordAllele.tsv)
+[data/example.tab.tsv](https://github.com/mulinlab/vSampler/blob/master/src/test/resources/data/example.tab.tsv)
+
 ## Copyright
 Copyright (c) Mulinlab@Tianjin Medical University 2016-2020. All rights reserved.
