@@ -40,5 +40,9 @@ java -jar -Xmx4g -Xms1g VariantSampler-x.y.z.jar Sampler -Q:tab,c=2,b=3,e=4,0=tr
 [data/example.coordAllele.tsv](https://github.com/mulinlab/vSampler/blob/master/src/test/resources/data/example.coordAllele.tsv)
 [data/example.tab.tsv](https://github.com/mulinlab/vSampler/blob/master/src/test/resources/data/example.tab.tsv)
 
+
+## Citation
+Huang D, Wang Z, Zhou Y, Liang Q, Sham PC, Yao H, Li MJ. vSampler: fast and annotation-based matched variant sampling tool. Bioinformatics. 2021 Jul 27;37(13):1915-1917.
+
 ## Copyright
 Copyright (c) Mulinlab@Tianjin Medical University 2016-2020. All rights reserved.
